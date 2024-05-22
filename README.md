@@ -1,2 +1,2 @@
-# android_calculator
-Simple Android calculator
+# Calculator
+This is a simple calculator project using Kotlin for an native Android app.
